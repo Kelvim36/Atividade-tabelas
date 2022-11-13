@@ -1,0 +1,65 @@
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    width: 400px;
+    height: 100px;
+}
+
+
+.tr-center {
+    text-align: center;
+
+}
+
+.tr-right {
+    text-align: right;
+}
+
+.td-center {
+    text-align: center;
+}
+
+
+.tab-2 {
+    height: 300px;
+    
+}
+
+.th-topo {
+    height: 80px;
+    
+}
+
+
+.td-menu {
+    width: 100px; 
+    text-align: center;
+}
+
+.td-conteudo {
+    text-align: center;
+
+}
+
+.td-rodape {
+    text-align: center;
+}
+
+.th-tab-1 {
+    height: 300px;
+}
+
+.th-tab-2 {
+    height: 300px;
+}
+
+.th-tab-3 {
+    height: 400px;
+}
